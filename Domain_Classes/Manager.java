@@ -1,6 +1,8 @@
+package Domain_Classes;
+
 import java.util.ArrayList;
 
-public class Manager extends TeamMember{
+public class Manager extends TeamMember {
     private ArrayList<Project> assignedProjects;
 
 

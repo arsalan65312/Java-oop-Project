@@ -1,6 +1,8 @@
+package Domain_Classes;
+
 import java.util.ArrayList;
 
-public class Developer extends TeamMember{
+public class Developer extends TeamMember {
     private ArrayList<String> skills;
     private ArrayList<Task> tasks;
 

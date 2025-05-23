@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+package Domain_Classes;
 
 public class Report {
     protected int rpId;

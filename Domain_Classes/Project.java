@@ -1,3 +1,5 @@
+package Domain_Classes;
+
 import java.util.ArrayList;
 
 class Project{
