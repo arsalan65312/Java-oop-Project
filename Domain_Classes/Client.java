@@ -12,13 +12,6 @@ public class Client {
     private ArrayList<Project> projects;
 
 
-    Client(int clientId, String name, String phoneNumber, String address) {
-        this.clientId = clientId;
-        this.name = name;
-        this.phoneNumber = phoneNumber;
-        this.address = address;
-    }
-
     Client() {
 
     }
